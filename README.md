@@ -1,6 +1,8 @@
 # liquidScript
 A lightweight plugin system for python.
 
+Note: Code is kind of jank and probably should be re-written at some point.
+
 Sample Output:
 
 ```
